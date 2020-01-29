@@ -20,6 +20,7 @@ this.languages = (function() {
     slovenian: "sl",
     spanish: "es",
     swedish: "sv",
+    tamil: "ta",
     turkish: "tr",
     ukrainian: "uk",
   };
